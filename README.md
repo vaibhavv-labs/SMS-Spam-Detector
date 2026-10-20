@@ -2,6 +2,12 @@
 
 A simple Machine Learning project that classifies SMS messages as **Spam** or **Legitimate** using Python.
 
+## 🌐 Live Demo
+
+🔗 **Try the Live Application:** [https://ai-scam-message-detector.streamlit.app/](https://ai-scam-message-detector.streamlit.app/)
+
+---
+
 ## 🚀 Project Overview
 
 This project demonstrates the complete ML workflow:
@@ -27,7 +33,9 @@ This project demonstrates the complete ML workflow:
 
 ```text
 ai-scam-message-detector/
-├── notebook.ipynb
+├── .gitignore
+├── AI Scam Message Detector.ipynb
+├── SMSSpamCollection
 ├── app.py
 ├── requirements.txt
 ├── spam_model.pkl
@@ -61,4 +69,4 @@ This is an educational project. Predictions may be incorrect and should not be u
 
 ## 👨‍💻 Author
 
-Built as a hands-on Machine Learning project.
+Built by [@vaibhavv-labs](https://github.com/vaibhavv-labs) as a hands-on Machine Learning project.
